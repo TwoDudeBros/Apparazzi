@@ -1,2 +1,2 @@
-# Apparazzi
-Apparazzi API
+# Snappee
+Snappee API
