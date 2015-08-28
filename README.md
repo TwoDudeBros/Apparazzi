@@ -1,2 +1,0 @@
-# Snappee
-Snappee API
